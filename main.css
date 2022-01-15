@@ -1,0 +1,10 @@
+#top {
+    text-decoration: none;
+    color: crimson;
+}
+.list-group {
+    width: auto;
+    max-width: 250px;
+    margin-left: 2rem;
+    list-style-type: none;
+}
